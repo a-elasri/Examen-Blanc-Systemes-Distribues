@@ -6,5 +6,6 @@
 ## Common-api
 Le projet utilise un module « common-api » sous forme d’un projet maven qui déclare les composants communs aux différents projets comme les Commandes, les Evénements, les Queries, les DTOs.
 ![commonapiStruct](https://user-images.githubusercontent.com/80216049/209487380-b7db092e-aea5-498e-a514-fd23c1724c07.PNG)
+
 Radar Service
 ![radarStruct](https://user-images.githubusercontent.com/80216049/209487393-e68b49e1-fdfa-4f45-9aa8-e6b222f7dcf5.PNG)
