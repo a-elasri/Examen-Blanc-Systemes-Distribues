@@ -11,3 +11,9 @@ Le projet utilise un module « common-api » sous forme d’un projet maven qui 
 Radar Service
 
 ![radarStruct](https://user-images.githubusercontent.com/80216049/209487393-e68b49e1-fdfa-4f45-9aa8-e6b222f7dcf5.PNG)
+
+## CreateRadar
+![image](https://user-images.githubusercontent.com/80216049/209487530-b90e1e2c-8390-4114-b76b-6209f48ec4bd.png)
+
+## getAllRadars
+![image](https://user-images.githubusercontent.com/80216049/209487565-d5ff7a84-be8d-4a94-b342-9ef44d12759f.png)
